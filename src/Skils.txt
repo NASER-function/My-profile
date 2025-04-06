@@ -1,0 +1,44 @@
+
+
+HTML: كتابة أكواد نظيفة ومنظمة، مع مراعاة معايير تحسين محركات البحث (SEO) وهيكلة المحتوى بشكل مثالي.
+HTML: Writing clean, structured code while adhering to SEO best practices and optimal content structuring.
+
+CSS: تصميم صفحات ويب احترافية، مع التركيز على التنسيق المتجاوب والأنيميشن لإضافة لمسة جمالية مميزة.
+CSS: Creating professional, responsive web pages with animations to enhance the visual appeal.
+
+JavaScript (ES6+): إنشاء تفاعلات ديناميكية ومتقدمة لتحسين تجربة المستخدم.
+JavaScript (ES6+): Building dynamic, interactive web experiences to improve user engagement.
+
+SASS: كتابة CSS بطريقة أكثر تنظيمًا، مع استخدام المتغيرات والـ mixins لتبسيط التصميم.
+SASS: Writing cleaner, more organized CSS using variables and mixins to streamline styling.
+
+Tailwind CSS: تصميم سريع وعصري مع التركيز على الأداء والمرونة.
+Tailwind CSS: Rapid, modern styling focused on performance and flexibility.
+
+React.js: إنشاء مكونات تفاعلية وواجهات أداء عالية.
+React.js: Developing interactive components with high-performance user interfaces.
+
+Next.js: تطوير مواقع متقدمة، مع تحسين السيو (SEO) وأداء الخادم (Server-side Rendering).
+Next.js: Building advanced web apps with enhanced SEO and server-side rendering for better performance.
+
+TypeScript: كتابة أكواد أكثر أمانًا ووضوحًا باستخدام الـ TypeScript.
+TypeScript: Writing more secure, maintainable, and readable code with TypeScript.
+
+Git: إدارة الأكواد وتتبع التعديلات باحترافية.
+Git: Efficiently managing code versions and tracking changes.
+
+GitHub: التعاون الجماعي، إنشاء مستودعات، ونشر المشاريع.
+GitHub: Collaborating with teams, creating repositories, and deploying projects.
+
+UI/UX: تصميم واجهات جذابة وسهلة الاستخدام، مع تحسين تجربة المستخدم.
+UI/UX: Designing intuitive, visually appealing interfaces that prioritize user experience.
+
+Canva: تصميم نماذج أولية (Prototypes) ورسومات تخطيطية (Wireframes) قبل البدء في التنفيذ البرمجي، لضمان خروج التصميم بأفضل شكل ووفقًا لرؤية العميل.
+Canva: Creating prototypes and wireframes before coding to ensure the design aligns perfectly with the client’s vision.
+
+Microsoft Word: إنشاء مستندات احترافية، مع تنسيق دقيق وإنشاء تقارير وعروض بجودة عالية.
+Microsoft Word: Crafting professional, well-structured documents, reports, and presentations.
+
+Microsoft Excel: تحليل البيانات، إنشاء جداول منظمة، واستخدام الدوال المتقدمة لتسهيل إدارة البيانات.
+Microsoft Excel: Analyzing data, creating organized tables, and using advanced functions for effective data management.
+

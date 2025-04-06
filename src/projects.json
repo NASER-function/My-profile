@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "title": "College Information Website",
+    "p": "A website providing comprehensive information about the college, its departments, and news",
+    "img": "./src/img/Projects/collage.png",
+    "link": "",
+    "left": "445.4px"
+  },
+
+  {
+    "id": 1,
+    "title": "Library Warehouse Management",
+    "p": "A web project to organize and manage warehouse inventory efficiently.",
+    "img": "./src/img/Projects/almohandes.png",
+    "link": "",
+    "left": "500.4px"
+  },
+  {
+    "id": 2,
+    "title": "Dashboard for Displaying Electrical Products",
+    "p": "A simple dashboard to display and filter electrical products like refrigerators and more.",
+    "img": "./src/img/Projects/Dashbord.png",
+    "link": "",
+    "left": "611px"
+  },
+  {
+    "id": 3,
+    "title": "E-commerce Project for Furniture Sales",
+    "p": "An online store for selling furniture with easy browsing and booking options",
+    "img": "./src/img/Projects/E-commerce.png",
+    "link": "",
+    "left": "665.5px"
+  },
+  {
+    "id": 4,
+    "title": "Coffee Shop Menu",
+    "p": "A web menu for a café offering juices, western dishes, and soft drinks.",
+    "img": "./src/img/Projects/menu Cofe.png",
+    "link": "",
+    "left": "720.5px"
+  },
+  {
+    "id": 5,
+    "title": "Store Management for Al-Farouk ",
+    "p": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius inventore qui temporibus quam sed? Quam mollitia totam dolorem odit veniam!",
+    "img": "./src/img/Projects/PRODUCT-managment System.png",
+    "link": ""
+  },
+  {
+    "id": 6,
+    "title": "To DO List",
+    "p": "A web application to organize and manage daily tasks.",
+    "img": "./src/img/Projects/To DO List.png",
+    "link": ""
+  },
+  {
+    "id": 7,
+    "title": "X&O Game",
+    "p": "A simple multiplayer game allowing interaction over the web.",
+    "img": "./src/img/Projects/X&O.png",
+    "link": ""
+  }
+ 
+  
+]
