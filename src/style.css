@@ -1080,6 +1080,9 @@ header ul li .a:hover,
   .infoDiv {
     height: 90px;
   }
+  .comment,,.commentR{
+ animation-duration: 10s;
+  }
   .ProjectsName h1 {
     font-size: 12px;
   }
