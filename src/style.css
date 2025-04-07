@@ -1054,11 +1054,12 @@ width: 100%;
     width: 340px;
   }
   .goodAt {
-    width: 100%;
+    width: 97%;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 70px;
+      overflow-x: hidden;
   }
   .goodAt h1 {
     font-size: 60px;
