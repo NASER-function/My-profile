@@ -1068,9 +1068,9 @@ header ul li .a:hover,
     width: 90%;
     margin-left: 20px;
   }
-          .Projects {
-                min-height: 44vh;
-        }
+  .Projects {
+    min-height: 44vh;
+  }
   .headerProject {
     font-size: 18px;
     margin-bottom: 20px;
@@ -1079,9 +1079,6 @@ header ul li .a:hover,
   }
   .infoDiv {
     height: 90px;
-  }
-  .comment,,.commentR{
- animation-duration: 10s;
   }
   .ProjectsName h1 {
     font-size: 12px;
@@ -1117,42 +1114,72 @@ header ul li .a:hover,
     font-size: 26px;
     width: 100%;
     height: 50px;
-   
   }
-  .commentR ,
-  .comment{
+   .comment{
+        width: 300px;
+      left: max(calc(350px * 6), 100%);
+ 
+  animation-duration: 30s;
+   }
+  .commentR
+  {
     width: 300px;
+      right: max(calc(350px * 6), 100%);
+ 
+  animation-duration: 30s;
   }
+  .comment1 {
+  animation-delay: calc(30s / 6 * (6 - 1) * -1);
+}
+
+.comment2 {
+  animation-delay: calc(30s / 6 * (6 - 2) * -1);
+}
+
+.comment3 {
+  animation-delay: calc(30s / 6 * (6 - 3) * -1);
+}
+
+.comment4 {
+  animation-delay: calc(30s / 6 * (6 - 4) * -1);
+}
+
+.comment5 {
+  animation-delay: calc(30s / 6 * (6 - 5) * -1);
+}
+
+.comment6 {
+  animation-delay: calc(30s / 6 * (6 - 6) * -1);
+}
   .upSaid {
     width: 100%;
   }
-  .ratename{
+  .ratename {
     width: 85%;
   }
-  .ratename h1{
+  .ratename h1 {
     width: 90%;
     font-size: 20px;
   }
-  .img img{
+  .img img {
     width: 60px;
     z-index: 5;
   }
-  .downSaid p{
+  .downSaid p {
     font-size: 16px;
   }
   .Contact_with_Us {
-        font-size: 31px;
-}
-.hover {
-        font-size: 1.2rem;
-       
-        width: 51px;
-        height: 37px;
-        line-height: 37px;
-      
-       
-}
+    font-size: 31px;
+  }
+  .hover {
+    font-size: 1.2rem;
+
+    width: 51px;
+    height: 37px;
+    line-height: 37px;
+  }
 }
 .hide {
   display: none;
 }
+
