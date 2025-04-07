@@ -1004,12 +1004,12 @@ header ul li .a:hover,
   } */
 }
 @media (max-width: 500px) {
-  /* .con{
-    display: none;
-  } */
+  .con{
+width: 100%;
+  }
   .FatherlivelyWallpaper {
-    left: -100px;
-    width: 200%;
+   
+    width: 100%;
   }
   .img2 {
     top: 170px;
@@ -1020,8 +1020,13 @@ header ul li .a:hover,
     top: 150px;
     right: 0;
   }
+          .mainphoto {
+                width: 100%;
+                
+        }
   .maintext {
     padding: 20px;
+    width: 100%;
   }
   .maintext .h1 {
     font-size: 85px;
@@ -1039,7 +1044,7 @@ header ul li .a:hover,
   .naser {
     color: #000;
     -webkit-text-stroke: 1px white;
-    width: auto;
+    width: 100%;
     /* te:  0 0 10px black; */
   }
   .h4 {
@@ -1053,6 +1058,7 @@ header ul li .a:hover,
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 70px;
   }
   .goodAt h1 {
     font-size: 60px;
@@ -1182,4 +1188,3 @@ header ul li .a:hover,
 .hide {
   display: none;
 }
-
