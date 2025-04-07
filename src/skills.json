@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "html",
+    "img": "./src/img/logo/html5.png",
+    "p": "Writing clean, structured code while adhering to SEO best practices and optimal content structuring."
+  },
+  {
+    "id": 2,
+    "name": "css",
+    "img": "./src/img/logo/css.png",
+    "p": "Creating professional, responsive web pages with animations to enhance the visual appeal."
+  },
+  {
+    "id": 3,
+    "name": "bootstrap",
+    "img": "./src/img/logo/bootstrap-5.png",
+    "p": "Rapid, modern styling focused on performance and flexibility."
+  },
+  {
+    "id": 4,
+    "name": "UX-Ui",
+    "img": "./src/img/logo/Ui_Ux.png",
+    "p": "Designing intuitive, visually appealing interfaces that prioritize user experience."
+  },
+  {
+    "id": 5,
+    "name": "canva",
+    "img": "./src/img/logo/canva.png",
+    "p": "Creating prototypes and wireframes before coding to ensure the design aligns perfectly with the client’s vision."
+  },
+  {
+    "id": 6,
+    "name": "javaScript",
+    "img": "./src/img/logo/js.png",
+    "p": "(ES6+): Building dynamic, interactive web experiences to improve user engagement."
+  },
+  {
+    "id": 7,
+    "name": "react",
+    "img": "./src/img/logo/react.png",
+    "p": "Developing interactive components with high-performance user interfaces."
+  },
+  {
+    "id": 8,
+    "name": "git",
+    "img": "./src/img/logo/git.png",
+    "p": "Efficiently managing code versions and tracking changes."
+  },
+  {
+    "id": 9,
+    "name": "github",
+    "img": "./src/img/logo/github.png",
+    "p": "GitHub is my playground! I’m confident using it — from organizing work and managing branches to deploying projects efficiently"
+  },
+  {
+    "id": 10,
+    "name": "microsoft Word",
+    "img": "./src/img/logo/microsoft-word.png",
+    "p": "Crafting professional, well-structured documents, reports, and presentations."
+  },
+  {
+    "id": 11,
+    "name": "microsoft Excel",
+    "img": "./src/img/logo/microsoft-excel.png",
+    "p": "Analyzing data, creating organized tables, and using advanced functions for effective data management."
+  }
+]
